@@ -5,13 +5,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Assignment01">Built With</a></li>
+        <li><a href="#Assignment01">Assignment01</a></li>
       </ul>
       <ul>
-        <li><a href="#Assignment02">Built With</a></li>
+        <li><a href="#Assignment02">Assignment02</a></li>
       </ul>
       <ul>
-        <li><a href="#Assignment03">Built With</a></li>
+        <li><a href="#Assignment03">Assignment03</a></li>
       </ul>
     </li>
 
