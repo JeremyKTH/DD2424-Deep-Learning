@@ -45,4 +45,4 @@ k-layer neural network + Cyclical Learning Rates + Batch Normalisation
 <!-- CONTACT -->
 ## Contact
 
-Chieh-Ju Wu (Jeremy) - [Linkedin](www.linkedin.com/in/chiehju-wu) - jeremy.cjwukth@gmail.com
+Chieh-Ju Wu (Jeremy) - jeremy.cjwukth@gmail.com
