@@ -1,25 +1,6 @@
 # DD2424 Deep Learning
 This is a repo for the individual course assignments of [DD2424 Deep Learning in Data Science](https://www.kth.se/student/kurser/kurs/DD2424?l=en) at KTH 2020. The code in this repo is mainly done in Matlab, and manipulations involved in the training process like gradient calculations and parameter updates are implemented in a trival way (low level).
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#Assignment01">Assignment01</a></li>
-      </ul>
-      <ul>
-        <li><a href="#Assignment02">Assignment02</a></li>
-      </ul>
-      <ul>
-        <li><a href="#Assignment03">Assignment03</a></li>
-      </ul>
-    </li>
-
-  </ol>
-</details>
 
 ## Table of contents
 
